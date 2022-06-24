@@ -16,3 +16,4 @@ This repository is for the projects I have done for data engeering.
 - SQL
 - Python
 - Linux Shell Scripting
+![image](https://user-images.githubusercontent.com/105550218/175517595-fd1c4165-f414-4327-933f-34d1ed2e0938.png)
