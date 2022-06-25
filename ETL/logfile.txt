@@ -1,0 +1,4 @@
+2022-Jun-25-22:46:49,Extract phase Started
+2022-Jun-25-22:46:51,Extract phase Ended
+2022-Jun-25-22:46:57,Transform phase Started
+2022-Jun-25-22:47:08,Load phase Started
